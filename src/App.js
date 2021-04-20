@@ -16,7 +16,6 @@ const App = () => {
 
   const addExpenseHandler = expense => {
     setExpenses(prevExpenses => {
-      console.log(expense.date.getFullYear())
       return [expense, ...prevExpenses]
     })
   }
