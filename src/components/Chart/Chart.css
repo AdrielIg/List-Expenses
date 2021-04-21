@@ -7,3 +7,14 @@
   justify-content: space-around;
   height: 10rem;
 }
+
+.chart-button {
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: #40005d;
+  border: 1px solid white;
+  padding: 0.5rem;
+  border-radius: 12px;
+  margin: 1rem;
+}
